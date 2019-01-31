@@ -1,0 +1,8 @@
+#contains the name of the files which we are ignoring from getting version controll
+
+*.txt
+helloworld.c
+
+~
+~
+
